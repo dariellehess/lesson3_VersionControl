@@ -4,7 +4,7 @@
 ## Course Title:
 Web Application Development (LIS 2360)
 
-## Assignment Date:  
+## Assignment Date:
 June 1, 2018
 
 ## Student Name:  
